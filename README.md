@@ -1,0 +1,1 @@
+This project was completed as part of the GoMyCode JavaScript checkpoint. It focuses on DOM events and dynamic page updates by implementing a shopping cart where users can manage item quantities, remove products, mark favorites, and see real-time changes to the total price.
